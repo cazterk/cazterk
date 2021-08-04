@@ -21,9 +21,8 @@
 ### Socials 
 <p align="center">
  <a href="https://twitter.com/cazterk" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://web.facebook.com/cazterk" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://web.facebook.com/cazterk" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://web.facebook.com/cazterk" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://facebook.com/cazterk" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="40" style="vertical-align:top; margin:4px"></a>
+   <a href="https://web.facebook.com/cazterk" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
