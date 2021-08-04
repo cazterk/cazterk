@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=cazterk.cazterk)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on making my blog better using nextjs and sanity.io
