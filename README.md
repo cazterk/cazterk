@@ -25,9 +25,10 @@
 <p align="center>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&show_icons=true&theme=tokyonig">
-                                                                                                              
+      
+<br>                                                                                                        
     <img src="https://github-readme-stats.vercel.app/api?username=cazterk&show_icons=true&theme=tokyonig">
-
+<br>
                                                                                                        
 <p>
 
