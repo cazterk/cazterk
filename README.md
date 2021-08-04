@@ -26,7 +26,6 @@
 </p>
 
 ### GitHub Stats 🏆
-<br />
 <p align="center" >
       <br/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&theme=dark&layout=compact">                                                                         <span> &nbsp; &nbsp; &nbsp;
