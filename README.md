@@ -10,9 +10,9 @@
 - 📫 How to reach me: 
 - ⚡ Fun fact: I love tech as well
 - ⛪ I'm a follower of Jesus Christ 
-
 <br />
 
+### Hi there
 <p align="center">
  <a target="_blank" href="http://terklog.com/"  rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" alt="blog" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://twitter.com/cazterk" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="40" style="vertical-align:top; margin:4px"></a>
@@ -20,12 +20,9 @@
 </p>
 
 <br />
-
-
 <p align="center" >
       <br/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&theme=dark&layout=compact">  
-                                                                                                         
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&theme=dark&layout=compact">                                                                                                      
 </p >
 
 <p align="center">
