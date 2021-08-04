@@ -26,7 +26,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&&theme=dark&layout=compact">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&theme=dark&layout=compact">
 <p>
 
 
