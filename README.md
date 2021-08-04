@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=cazterk.cazterk)
+![](https://visitor-badge.laobi.icu/badge?page_id=cazterk.cazterk) [![Github](https://img.shields.io/github/followers/cazterk?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 ### Hi there 👋
 
