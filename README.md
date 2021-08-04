@@ -22,7 +22,7 @@
 <br />
 
 
-<p align="center" justify-content="space-between">
+<p align="center" style ="justify-content:space-between">
       <br/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&theme=dark&layout=compact">  
  <span>
