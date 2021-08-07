@@ -7,7 +7,7 @@
 - ⛪ I'm a follower of Jesus Christ 
 
 ### Checkout My Cool Work 🖥️
-**Let's connect**: [Blog](https://www.terklog.com/) • [Itch](https://cazterk.itch.io/) • [Youtube](https://www.youtube.com/c/cazterk) • [Website](https://delbaoliveira.com/)
+**Let's connect**: [Blog](https://www.terklog.com/) • [Itch.io](https://cazterk.itch.io/) • [Youtube](https://www.youtube.com/c/cazterk) 
 
 ### Language Stats 🏆
 <p align="center" >
