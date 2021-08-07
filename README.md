@@ -7,7 +7,7 @@
 - ⛪ I'm a follower of Jesus Christ 
 <br/>
 
-**My Work**🖥️: [Blog](https://www.terklog.com/) • [Itch.io](https://cazterk.itch.io/) • [Youtube](https://www.youtube.com/c/cazterk) 
+**My Work**🖥️: [blog](https://www.terklog.com/) • [itch.io](https://cazterk.itch.io/) • [youtube](https://www.youtube.com/c/cazterk) 
 
 **Language Stats**🏆
 <p align="center" >
