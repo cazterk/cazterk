@@ -7,12 +7,7 @@
 - ⛪ I'm a follower of Jesus Christ 
 
 ### Checkout My Cool Work 🖥️
-<p align="center">
- <a target="_blank" href="http://terklog.com/"  rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" alt="blog" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://cazterk.itch.io/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/itch-dot-io.svg" alt="mail" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.youtube.com/c/cazterk"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="mail" height="40" style="vertical-align:top; margin:4px;"></a>
- 
-</p>
+**Let's connect**: [Blog](https://www.terklog.com/) • [Itch](https://cazterk.itch.io/) • [Youtube](https://www.youtube.com/c/cazterk) • [Website](https://delbaoliveira.com/)
 
 ### Language Stats 🏆
 <p align="center" >
