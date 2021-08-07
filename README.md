@@ -5,7 +5,7 @@
 - 👯 looking to collaborate on open source projects
 - 🤔 looking for help with game art would love to learn that
 - ⛪ I'm a follower of Jesus Christ 
-
+<br/>
 **My Work**🖥️: [Blog](https://www.terklog.com/) • [Itch.io](https://cazterk.itch.io/) • [Youtube](https://www.youtube.com/c/cazterk) 
 
 **Language Stats**🏆
