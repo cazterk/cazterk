@@ -1,11 +1,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=cazterk.cazterk) [![Github](https://img.shields.io/github/followers/cazterk?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 ### Hi there 👋
-- 🔭 I’m currently working on many things programming
-- 🎮 I’m currently learning alot i do game gev as well 
+- 🔭 I’m currently working on many things programming & game gev 
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with game art would love to learn that
-- ⚡ Fun fact: I love tech as well
 - ⛪ I'm a follower of Jesus Christ 
 
 ### Checkout My Cool Work 🖥️
