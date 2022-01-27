@@ -12,7 +12,7 @@
 **Language Stats**🏆
 <p align="center" >
      <br/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&theme=tokyonightk&layout=compact">                                                                                              
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&theme=tokyonight&layout=compact">                                                                                              
 </p >
 
 
