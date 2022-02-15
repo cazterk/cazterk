@@ -23,9 +23,8 @@
 
 **Language Stats**🏆
 
-<p align="start" >
+<p align="center" >
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&theme=tokyonight&layout=compact">                                                                                              
 </p >
-
 
 
