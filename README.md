@@ -6,7 +6,7 @@
 - 🤔 looking for help with game art would love to learn that
 - ⛪ I'm a follower of Jesus Christ 
 
-**My Work**🖥️: [blog](https://www.terklog.com/) • [itch.io](https://cazterk.itch.io/) • [youtube](https://www.youtube.com/c/cazterk) 
+ | [blog](https://www.terklog.com/) | [games](https://cazterk.itch.io/) | [youtube](https://www.youtube.com/c/cazterk) |
 
 **Languages and Tools:**  
 
