@@ -23,7 +23,7 @@
 <img align="left" alt="Git" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#dark-mode-only" style="padding-right:5px;" />
 <img align="left" alt="Bash" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg#dark-mode-only" style="padding-right:5px;" />
 <br/>
-<h4 align="start">🏆Language Stats🏆<h4>
+<h4 align="start">👨🏽‍💻Language Stats📊<h4>
 <p align="start" >
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&hide_border=true&theme=tokyonight&layout=compact">                                                                                              
 </p >
