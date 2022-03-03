@@ -9,7 +9,7 @@
 **My Work**🖥️: [blog](https://www.terklog.com/) • [itch.io](https://cazterk.itch.io/) • [youtube](https://www.youtube.com/c/cazterk) 
 
 **Languages and Tools:**  
-<br/>
+
 <img align="left" alt="C#" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg#dark-mode-only" style="padding-right:5px;" />
 <img align="left" alt="HTML5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#light-mode-only" style="padding-right:5px;" />
 <img align="left" alt="CSS3" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#dark-mode-only" style="padding-right:5px;" />
@@ -22,9 +22,7 @@
 <img align="left" alt="Unity" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg#dark-mode-only" style="padding-right:5px;" />
 <img align="left" alt="Git" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#dark-mode-only" style="padding-right:5px;" />
 <img align="left" alt="Bash" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg#dark-mode-only" style="padding-right:5px;" />
-
 <br/>
-
 <h4 align="start">🏆Language Stats🏆<h4>
 <p align="start" >
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&hide_border=true&theme=tokyonight&layout=compact">                                                                                              
