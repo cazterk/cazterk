@@ -8,7 +8,7 @@
 
  | [blog](https://www.terklog.com/) | [games](https://cazterk.itch.io/) | [youtube](https://www.youtube.com/c/cazterk) |
 
-**Languages and Tools:**  
+👨🏽‍💻Languages and Tools⚙️
 
 <img align="left" alt="C#" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg#dark-mode-only" style="padding-right:5px;" />
 <img align="left" alt="HTML5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#light-mode-only" style="padding-right:5px;" />
