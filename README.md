@@ -25,8 +25,8 @@
 
 <br/>
 
-<h4 align="center">🏆Language Stats🏆<h4>
-<p align="center" >
+<h4 align="start">🏆Language Stats🏆<h4>
+<p align="start" >
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&hide_border=true&theme=tokyonight&layout=compact">                                                                                              
 </p >
 
