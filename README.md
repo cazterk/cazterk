@@ -28,5 +28,5 @@
 
 ## 👨🏽‍💻Language Stats📊
 <p align="" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&hide_border=true&theme=codeSTACKr&layout=compact">        
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&hide_border=true&theme=tokyonight&layout=compact">        
 </p>                                             
