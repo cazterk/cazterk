@@ -8,8 +8,8 @@
 
  | [blog](https://www.terklog.com/) | [games](https://cazterk.itch.io/) | [youtube](https://www.youtube.com/c/cazterk) |
 
-<h4 align="center">👨🏽‍💻Languages and Tools⚙️</h4>
-<p align="center">
+<h4 align="">👨🏽‍💻Languages and Tools⚙️</h4>
+<p align="">
 <img align="" alt="C#" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg#dark-mode-only" style="margin:20px ;" />
 <img align="" alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#light-mode-only" style="padding-right:15px;" />
 <img align="" alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#dark-mode-only" style="padding-right:10px;" />
@@ -24,8 +24,8 @@
 <img align="" alt="Bash" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg#dark-mode-only" style="padding-right:5px;" />
 </p>
 
-<h4 align="center">👨🏽‍💻Language Stats📊</h4>
-<p align="center" >
+<h4 align="">👨🏽‍💻Language Stats📊</h4>
+<p align="" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&hide_border=true&theme=tokyonight&layout=compact">                                
 </p>                                             
 
