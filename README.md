@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=cazterk.cazterk) [![Github](https://img.shields.io/github/followers/cazterk?label=Follow&style=social)](https://github.com/cazterk)
+![](https://komarev.com/ghpvc/?username=cazterk&style=flat-square&color=blue) 
 
 ## 👋🏽Hi there👋🏽
 - 🔭 currently working on many things programming & game gev 
