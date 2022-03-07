@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=cazterk.cazterk) [![Github](https://img.shields.io/github/followers/cazterk?label=Follow&style=social)](https://github.com/cazterk)
 
-## Hi there 👋
+## 👋🏽Hi there👋🏽
 - 🔭 currently working on many things programming & game gev 
 - 👯 looking to collaborate on open source projects
 - 🤔 looking for help with game art would love to learn that
@@ -8,7 +8,7 @@
 
 ##
 
-## 🌐 Usefull Links 🌐
+## 🖱️Usefull Links🔗
 - | [blog](https://www.terklog.com/) | [games](https://cazterk.itch.io/) | [youtube](https://www.youtube.com/c/cazterk) |
 
 
