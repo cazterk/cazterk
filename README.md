@@ -13,7 +13,7 @@
 
 ### 👨🏽‍💻Languages and Tools⚙️
 <p align="">
-<img align="" alt="C#" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg#dark-mode-only"/>&nbsp&nbsp
+<img align="" alt="C#" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg#dark-mode-only"/>&nbsp&nbsp
 <img align="" alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#light-mode-only"/>&nbsp&nbsp
 <img align="" alt="CSS3" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#dark-mode-only"/>&nbsp&nbsp
 <img align="" alt="Sass" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg#light-mode-only"/>&nbsp&nbsp
