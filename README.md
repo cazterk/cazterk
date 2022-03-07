@@ -6,8 +6,6 @@
 - 🤔 looking for help with game art would love to learn that
 - ⛪ I'm a follower of Jesus Christ 
 
-##
-
 ## 🖱️Usefull Links🔗
 - | [blog](https://www.terklog.com/) | [games](https://cazterk.itch.io/) | [youtube](https://www.youtube.com/c/cazterk) |
 
