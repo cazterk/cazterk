@@ -7,7 +7,7 @@
 - 👯 looking to collaborate on open source projects
 - 🤔 looking for help with game art would love to learn that
 - ⛪ I'm a follower of Jesus Christ 
-- 😒 everything was exciting but now I'm just pragmatic 
+- 😒 everything was exciting but now i'm just pragmatic 
 
 ### 🖱️Usefull Links🔗
 | [blog](https://www.terklog.com/) | [games](https://cazterk.itch.io/) | [youtube](https://www.youtube.com/c/cazterk) |
