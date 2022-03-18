@@ -3,11 +3,11 @@
 <h1 align="center"> 👋🏽Hi there👋🏽 </h1>
 
 ![](https://komarev.com/ghpvc/?username=cazterk&style=flat-square&color=blue) 
+- ⛪ I'm a follower of Jesus Christ 
 - 🔭 currently working on many things programming & game gev 
 - 👯 looking to collaborate on open source projects
 - 🤔 looking for help with game art would love to learn that
-- ⛪ I'm a follower of Jesus Christ 
-- 😒 everything was exciting but now i'm just pragmatic 
+- 😒 everything was enthusiastic but now i'm just pragmatic 
 
 ### 🖱️Usefull Links🔗
 | [blog](https://www.terklog.com/) | [games](https://cazterk.itch.io/) | [youtube](https://www.youtube.com/c/cazterk) |
