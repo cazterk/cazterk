@@ -26,10 +26,10 @@
 <h4 align="center">Tooling</h4>
 <p align="center">
 <img align="" alt="React" width="65px" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp&nbsp
-<img align="" alt="NodeJS" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg#dark-mode-only"/>&nbsp&nbsp
-<img align="" alt="Unity" width="65px" src="https://img.icons8.com/color/64/000000/unity.png#dark-mode-only" />&nbsp&nbsp
-<img align="" alt="Git" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#dark-mode-only"/>&nbsp&nbsp
-<img align="" alt="Bash" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg#dark-mode-only" />&nbsp&nbsp
+<img align="" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg#dark-mode-only"/>&nbsp&nbsp
+<img align="" alt="Unity" width="30px" src="https://img.icons8.com/color/64/000000/unity.png#dark-mode-only" />&nbsp&nbsp
+<img align="" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#dark-mode-only"/>&nbsp&nbsp
+<img align="" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg#dark-mode-only" />&nbsp&nbsp
 </p>
 
 <h4 align="center">Hosting</h4>
