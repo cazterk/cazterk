@@ -12,8 +12,8 @@
 ### 🖱️Usefull Links🔗
 | [blog](https://www.terklog.com/) | [games](https://cazterk.itch.io/) | [youtube](https://www.youtube.com/c/cazterk) |
 
-<h2 align="center">👨🏽‍💻Languages</h2> 
-<p align="center">
+<h3 align="">👨🏽‍💻Languages</h3> 
+<p align="">
 <img align="" alt="C#" height="21.6px"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp
 <img align="" alt="HTML5"  height="21.6px"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp
 <img align="" alt="CSS3"  height="21.6px"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp
@@ -25,27 +25,27 @@
 <img align="" alt="Python" height="21.6px"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </p>
 
-<h2 align="center">Tooling</h2>
-<p align="center">
-<img align="" alt="React" width="65px" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp&nbsp
-<img align="" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg#dark-mode-only"/>&nbsp&nbsp
-<img align="" alt="Unity" width="30px" src="https://img.icons8.com/color/64/000000/unity.png#dark-mode-only" />&nbsp&nbsp
+<h3 align="">Tooling</h3>
+<p align="">
+<img align="" alt="React" height="21.6px" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp&nbsp
+<img align="" alt="NodeJS" height="21.6px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
+<img align="" alt="Unity" height="21.6px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp&nbsp
 <img align="" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#dark-mode-only"/>&nbsp&nbsp
 <img align="" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg#dark-mode-only" />&nbsp&nbsp
 </p>
 
-<h4 align="center">Hosting</h4>
+<h3 align="">Hosting</h3>
 
-<p align="center">
-<img align="" alt="Netlify" width="65px" src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7"/>&nbsp
-<img align="" alt="Vercel" width="65px" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>&nbsp
+<p align="">
+<img align="" alt="Netlify"  height="21.6px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp
+<img align="" alt="Vercel"  height="21.6px" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>&nbsp
 </p>
 
 
-<h3 align="center"> 👨🏽‍💻Language Stats📊 </h3>
+<h3 align=""> 👨🏽‍💻Language Stats📊 </h3>
 
 
-<p align="center" >
+<p align="" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&hide_border=true&theme=tokyonight&layout=compact">        
 </p>   
 
