@@ -25,13 +25,19 @@
 <img align="" alt="Python" height="21.6px"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </p>
 
+<h3 align="">Frameworks</h3>
+<p align="">
+<img alt="React" height="21.6px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp
+  <img alt="Rails" height="21.6px"  src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>&nbsp
+    <img alt="Dotnet" height="21.6px"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>&nbsp
+</p>
+
 <h3 align="">Tooling</h3>
 <p align="">
-<img align="" alt="React" height="21.6px" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp&nbsp
-<img align="" alt="NodeJS" height="21.6px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
-<img align="" alt="Unity" height="21.6px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp&nbsp
-<img align="" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#dark-mode-only"/>&nbsp&nbsp
-<img align="" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg#dark-mode-only" />&nbsp&nbsp
+<img alt="NodeJS" height="21.6px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
+<img  alt="Unity" height="21.6px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
+<img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg#dark-mode-only"/>&nbsp
+<img  alt="Bash" height="21.6px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp
 </p>
 
 <h3 align="">Hosting</h3>
