@@ -14,16 +14,17 @@
 
 <h4 align="center">👨🏽‍💻Languages</h4> 
 <p align="center">
-<img align="" alt="C#" width="65px" src="https://img.shields.io/badge/csharp-%2300599C.svg?style=flat-square&logo=c sharp%2B%2B&logoColor=white"/>&nbsp&nbsp
-<img align="" alt="HTML5" width="65px" src="https://img.shields.io/badge/html-%23323330.svg?style=flat-square&logo=html5&logoColor=#E34F26"/>&nbsp&nbsp
-<img align="" alt="CSS3" width="65px" src="https://img.shields.io/badge/css-%23323330.svg?style=flat-square&logo=css3&logoColor=blue"/>&nbsp&nbsp
-<img align="" alt="Sass" width="65px" src="https://img.shields.io/badge/sass-%23323330.svg?style=flat-square&logo=sass3&logoColor=blue"/>&nbsp&nbsp
-<img align="" alt="JavaScript" width="65px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=yellow" />&nbsp&nbsp
-<img align="" alt="TypeScript" width="65px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />&nbsp&nbsp
-<img align="" alt="Python" width="65px" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />&nbsp&nbsp
+<img align="" alt="C#" height="21.6px"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp&nbsp
+<img align="" alt="HTML5"  height="21.6px"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp&nbsp
+<img align="" alt="CSS3"  height="21.6px"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp&nbsp
+<img align="" alt="Sass"  height="21.6px"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp&nbsp
+<img align="" alt="JavaScript" hheight="21.6px"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp&nbsp
+<img align="" alt="TypeScript" height="22px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp&nbsp
+<img alt="Ruby" height="22px"	src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp&nbsp
+<img align="" alt="Python" height="22px" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />&nbsp&nbsp
 </p>
 
-<h4 align="center">Tooling</h4>
+<h3 align="center">Tooling</h3>
 <p align="center">
 <img align="" alt="React" width="65px" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp&nbsp
 <img align="" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg#dark-mode-only"/>&nbsp&nbsp
@@ -40,7 +41,7 @@
 </p>
 
 
-<h4 align="center"> 👨🏽‍💻Language Stats📊 </h4>
+<h3 align="center"> 👨🏽‍💻Language Stats📊 </h3>
 
 
 <p align="center" >
