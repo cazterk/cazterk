@@ -35,7 +35,7 @@
 <h3 align="">Tooling</h3>
 <p align="">
   <img  alt="Unity" height="21.6px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
-<img alt="VS Code" height="21.6px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp 
+<img alt="VS Code" height="21.6px" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp 
   <img alt="Visual Studio" height="21.6px" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)"/>&nbsp
 <img alt="NodeJS" height="21.6px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
 <img alt="Git" height="21.6px"src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
