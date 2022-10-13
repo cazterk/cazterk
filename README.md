@@ -4,9 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=cazterk&style=flat-square&color=blue) 
 - ⛪ I'm a follower of Jesus Christ 
-- 🔭 currently working on many things programming & game gev 
-- 👯 looking to collaborate on open source projects
-- 🤝🏼 looking for help with game art would love to learn that
+- 💻 Mostly frontend programming, 
+- 🤝🏼 I do backend & game gev occasionally  
 - 🙂 I was enthusiastic but now i'm just pragmatic 
 
 ### 🖱️Usefull Links🔗
