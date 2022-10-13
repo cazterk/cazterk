@@ -6,8 +6,8 @@
 - ⛪ I'm a follower of Jesus Christ 
 - 🔭 currently working on many things programming & game gev 
 - 👯 looking to collaborate on open source projects
-- 🤔 looking for help with game art would love to learn that
-- 😒 I was enthusiastic but now i'm just pragmatic 
+- 🤝🏼 looking for help with game art would love to learn that
+- 🙂 I was enthusiastic but now i'm just pragmatic 
 
 ### 🖱️Usefull Links🔗
 | [blog](https://www.terklog.com/) | [games](https://cazterk.itch.io/) | [youtube](https://www.youtube.com/c/cazterk) |
