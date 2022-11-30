@@ -5,7 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=cazterk&style=flat-square&color=blue) 
 - ⛪ I'm a follower of Jesus Christ 
 - 💻 Mostly frontend programming 
-- 🤝🏼 I do backend & game gev occasionally  
+- 🤝🏼 I do backend with dotnet 
+- 🎮 Game gev occasionally  
 - 🙂 I was enthusiastic but now i'm just pragmatic 
 
 ### 🖱️Usefull Links🔗
@@ -33,17 +34,15 @@
 
 <h3 align="">Tooling</h3>
 <p align="">
-  <img  alt="Unity" height="21.6px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
+<img  alt="Unity" height="21.6px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
 <img alt="VS Code" height="21.6px" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp 
-  <img alt="Visual Studio" height="21.6px" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)"/>&nbsp
+<img alt="Visual Studio" height="21.6px" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)"/>&nbsp
 <img alt="NodeJS" height="21.6px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
 <img alt="Git" height="21.6px"src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
-<img  alt="Bash" height="21.6px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp
-
+<img alt="Docker" height="21.6px"src="https://img.shields.io/badge/Docker-2CA5E0.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="">Hosting</h3>
-
 <p align="">
 <img align="" alt="Netlify"  height="21.6px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp
 <img align="" alt="Vercel"  height="21.6px" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>&nbsp
