@@ -49,7 +49,7 @@
 
 <h3 align="">Hosting</h3>
 <p align="">
-<img align="" alt="Netlify"  height="21.6px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
+<img align="" alt="Netlify"  height="21.6px" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp
 <img align="" alt="Vercel"  height="21.6px" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>&nbsp
 </p>
 
