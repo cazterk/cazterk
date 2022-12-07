@@ -4,8 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=cazterk&style=flat-square&color=blue) 
 - ⛪ I'm a follower of Jesus Christ 
-- 💻 Mostly frontend programming 
-- 🤝🏼 I do backend with dotnet 
+- 💻 Frontend first 
+- 🤝 Backend dotnet first  
 - 🎮 Game gev occasionally  
 - 🙂 I was enthusiastic but now i'm just pragmatic 
 
