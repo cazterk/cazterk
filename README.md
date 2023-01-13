@@ -58,6 +58,6 @@
 
 
 <p align="" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cazterk&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>   
 
