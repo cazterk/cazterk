@@ -21,15 +21,16 @@
 <img align="" alt="JavaScript" height="21.6px"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
 <img align="" alt="TypeScript" height="21.6px"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img  alt="Markdown" height="21.6px"  src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp
-<img alt="Ruby" height="21.6px" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />&nbsp
+<img alt="Kotlin" height="21.6px" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
 <img align="" alt="Python" height="21.6px"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </p>
 
-<h3 align="">Frameworks</h3>
+<h3 align="">Frameworks Platforms & Libraries</h3>
 <p align="">
 <img alt="React" height="21.6px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp
+<img alt="NextJs" height="21.6px"src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp
+<img alt="Vite" height="21.6px"src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>&nbsp
 <img alt="Dotnet" height="21.6px"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>&nbsp
-<img alt="Rails" height="21.6px"  src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="">Tooling</h3>
@@ -40,11 +41,14 @@
 <img alt="NodeJS" height="21.6px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
 <img alt="Git" height="21.6px"src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
 <img alt="Docker" height="21.6px"src="https://img.shields.io/badge/Docker-2CA5E0.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp
+
 </p>
 
 <h3 align="">Database</h3>
 <p align="">
 <img align="" alt="Postgres"  height="21.6px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
+<img align="" alt="MongoDB"  height="21.6px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
+<img align="" alt="Microsoft SQL Server"  height="21.6px" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />&nbsp
 </p>
 
 <h3 align="">Hosting</h3>
