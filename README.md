@@ -4,9 +4,9 @@
 
 ![](https://komarev.com/ghpvc/?username=cazterk&style=flat-square&color=blue) 
 - ⛪ I'm a follower of Jesus Christ 
-- 💻 Frontend  
-- 🤝 Backend
-- 📱 Mobile [Android]
+- 🖥️ Frontend  
+- 💾 Backend
+- 📱 Mobile [Android Jetpack+Compose]
 - 🎮 Game dev occasionally  
 - 🙂 Pragmatic dev  
 
