@@ -6,8 +6,8 @@
 - ⛪ I'm a follower of Jesus Christ 
 - 💻 Frontend first 
 - 🤝 Backend dotnet first  
-- 🎮 Game gev occasionally  
-- 🙂 I was enthusiastic but now i'm just pragmatic 
+- 🎮 Game dev occasionally  
+- 🙂 Pragmatic dev  
 
 ### 🖱️Usefull Links🔗
 | [blog](https://www.terklog.com/) | [games](https://cazterk.itch.io/) | [youtube](https://www.youtube.com/c/cazterk) |
